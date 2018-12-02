@@ -1,2 +1,9 @@
 My firs line in the project
 Paris is the capital of France
+
+
+we add this line only for tests!
+
+
+
+we add	this linr fot continue testing
